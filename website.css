@@ -1,0 +1,92 @@
+.menu {
+    background-color: black;
+    height: 120px;
+    margin: 0px;
+    font-size: 60px;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    font-family: 'Comic Neue', cursive;
+    padding: 0px 0px 0px 40px;
+  }
+  .menu:hover {
+    color: grey;
+  }
+  
+  div {
+    display: flex;
+        }
+  aside {
+    width: 45%;
+  }
+  .slider {
+    background-image: url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: center;
+    display: block;
+    
+  }
+  
+  h1 {
+     font-size: 50px;
+     margin: 0px 0px 0px 205px;
+     display: flex;
+     align-items: flex-end;
+     padding: 380px 0px 0px 0px;
+  }
+  .name {
+    font-size: 100px;
+    padding: 0px;
+  }
+  .description {
+    width: 55%;
+    margin-left: 30px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 35px;
+    font-weight: normal;
+  }
+   
+  .block {
+    float: center;
+    display: block;
+    width: 45%;
+    
+  }
+  
+  h3 {  
+    background-color: #575D58;
+    font-family: 'Inknut Antiqua', serif;
+    /*height: 950px;*/
+    color: white;
+    font-size: 147px;
+    text-align: left;
+    text-indent: -25px;
+    padding: 0px 0px 70px 25px;
+    margin: 90px 0px 0px;
+  }
+  h4 {
+    font-size: 55px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    padding-top: 180px;
+  }
+  h5 {
+    font-size: 47px;
+    margin-bottom: 30px;
+  }
+  .paragraph {
+     font-size: 30px;
+     font-weight: normal;
+     margin-bottom: 0px;
+  }
+  h6 {
+    font-style: italic;
+    font-size: 37px;
+    margin-top: -15px;}
